@@ -11,6 +11,14 @@ All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/)
 is available jointly under the MIT License and the Beerware License. See
 [LICENSE.md](LICENSE.md) for details.
 
+## Heroku
+
+Current Heroku domain
+
+```
+https://boiling-tundra-46621.herokuapp.com/
+```
+
 ## Getting started
 
 To get started with the app, clone the repo and then install the needed gems:
